@@ -1,4 +1,4 @@
-var userData = [
+var friends = [
     {
         "name": "Bill",
         "photo": "no.png",
@@ -14,5 +14,7 @@ var userData = [
         "4",
         "1"
         ]
-    },
+    }
 ]
+
+module.exports = friends;
